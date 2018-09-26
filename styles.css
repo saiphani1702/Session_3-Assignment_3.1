@@ -1,0 +1,7 @@
+/*setting different attributes like height,background color,font-style,fontsize for DIV tag*/
+div{
+    height: 100px;
+    background:red;
+    font-style:blue;
+    font-size: 50px;
+   }
